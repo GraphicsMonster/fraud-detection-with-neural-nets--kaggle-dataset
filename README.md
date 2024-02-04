@@ -1,4 +1,4 @@
-# Fraudulent Detection Model
+# Fraudulent Credit Card Transaction Detection using Deep Neural nets
 
 ## Overview
 
@@ -37,6 +37,7 @@ pip install torch pandas scikit-learn
 ## Result
 
 - **Test Set Accuracy:** 97.38%
+- Can't test the model on a validation set as the dataset is anonymized and the validation set is not provided.
 
 ## Acknowledgments
 
